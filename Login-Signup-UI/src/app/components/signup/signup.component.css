@@ -1,0 +1,6 @@
+input[type='email'] {
+    border: none;
+    outline: none;
+    box-shadow: none;
+    width: 100%;
+}
